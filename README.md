@@ -11,8 +11,6 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 [Lançamento iPhone 2007](https://www.youtube.com/watch?v=9ou608QQRq8)
 
 ### Comportamentos esperados:
-Repodutor Musicial: tocar, pausar, selecionarMusica
-
-Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
-
-Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
+- Repodutor Musicial: tocar, pausar, selecionarMusica
+- Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
+- Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
