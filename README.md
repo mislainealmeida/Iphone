@@ -17,5 +17,6 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 
 ## Diagrama de Classes: 
 
-![DiagramaClasses](https://github.com/mislainealmeida/Iphone/assets/64444199/4cff673a-fe44-46b1-9f0f-05609c4bf198)
+![DiagramaClasses](https://github.com/mislainealmeida/Iphone/assets/64444199/f8b281ed-94b4-4839-9ada-7071b2b4eb1d)
+
 
