@@ -15,5 +15,7 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 - Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 - Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
+## Diagrama de Classes: 
+
 ![DiagramaClasses](https://github.com/mislainealmeida/Iphone/assets/64444199/4cff673a-fe44-46b1-9f0f-05609c4bf198)
 
